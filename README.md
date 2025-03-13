@@ -7,4 +7,4 @@ So that's it, nothing special, just my first project to learn GitHub in my class
 - Learn GitHub
 
 ## to do:
-- [ ] test more
+- test more
