@@ -12,6 +12,10 @@ public class Names {
         this.name = name;
         this.surname = "N/A";
     }
+    public Names(String name, String surname){
+        this.name = name;
+        this.surname = surname;
+    }
 
     public String getName (){
         return this.name;
